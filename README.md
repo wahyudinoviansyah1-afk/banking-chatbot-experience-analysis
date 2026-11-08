@@ -140,7 +140,7 @@ Interaktivitas: slicer Gender, Kelompok Umur, dan Frekuensi Penggunaan yang ters
 
 ## 6. Temuan Utama
 
-![Dashboard Ringkasan Kepuasan](images/dashboard_kepuasan.png)
+![Dashboard Ringkasan Kepuasan](images/ringkasan_kepuasan.png)
 
 **Ringkasan KPI:**
 
@@ -165,7 +165,7 @@ Interaktivitas: slicer Gender, Kelompok Umur, dan Frekuensi Penggunaan yang ters
 
 5. **Perbedaan penilaian antarindikator kepuasan relatif kecil.** Selisih antara indikator dengan nilai tertinggi dan terendah hanya sebesar 0,08 poin.
 
-![Dashboard Analisis Pengalaman](images/dashboard_pengalaman.png)
+![Dashboard Analisis Pengalaman](images/analisis_pengalaman.png)
 
 **Analisis pengalaman pengguna:**
 
@@ -179,7 +179,7 @@ Halaman kedua dashboard menyajikan distribusi jawaban terhadap 32 indikator peng
 
 Dashboard juga menyediakan analisis berdasarkan gender, kelompok umur, dan frekuensi penggunaan untuk membantu melihat variasi penilaian antarsegmen responden.
 
-![Dashboard Informasi Questions](images/dashboard_informasi_questions.png)
+![Dashboard Informasi Questions](images/informasi_questions.png)
 
 Halaman ketiga berisi kamus pertanyaan survei sehingga pembaca dapat mengetahui arti kode Q yang tampil pada grafik.
 
