@@ -1,0 +1,39 @@
+Kode,Pernyataan,Indikator,Kelompok
+Q01,Pengetahuan pengguna tentang chatbot,Pengetahuan dan ketersediaan,Pengalaman
+Q02,Ketersediaan chatbot dalam layanan perbankan,Pengetahuan dan ketersediaan,Pengalaman
+Q03,Bantuan chatbot yang dipersonalisasi,Personalisasi layanan,Pengalaman
+Q04,Kesopanan dan profesionalisme chatbot,Kualitas interaksi,Pengalaman
+Q05,Pengalaman interaksi yang menyenangkan,Kualitas interaksi,Pengalaman
+Q06,Kemudahan berinteraksi dengan chatbot,Kualitas interaksi,Pengalaman
+Q07,Interaksi yang menstimulasi secara intelektual,Kualitas interaksi,Pengalaman
+Q08,Preferensi terhadap rekomendasi chatbot,Kualitas interaksi,Pengalaman
+Q09,Informasi terbaru mengenai produk dan layanan,Informasi dan inovasi,Pengalaman
+Q10,Modernitas layanan chatbot,Informasi dan inovasi,Pengalaman
+Q11,Informasi keuangan terkini,Informasi dan inovasi,Pengalaman
+Q12,Ketersediaan fitur-fitur canggih,Informasi dan inovasi,Pengalaman
+Q13,Rekomendasi produk sesuai kebutuhan,Personalisasi layanan,Pengalaman
+Q14,Personalisasi layanan chatbot,Personalisasi layanan,Pengalaman
+Q15,Pemahaman chatbot terhadap preferensi pengguna,Personalisasi layanan,Pengalaman
+Q16,Solusi sesuai tujuan keuangan pengguna,Personalisasi layanan,Pengalaman
+Q17,Efektivitas chatbot dalam menyelesaikan masalah,Penyelesaian masalah,Pengalaman
+Q18,Kejelasan solusi yang diberikan,Penyelesaian masalah,Pengalaman
+Q19,Kecepatan dalam menangani keluhan,Penyelesaian masalah,Pengalaman
+Q20,Kepercayaan terhadap kemampuan chatbot menyelesaikan masalah,Penyelesaian masalah,Pengalaman
+Q21,Ketepatan waktu jawaban chatbot,Akurasi dan kelengkapan informasi,Pengalaman
+Q22,Akurasi informasi yang diberikan,Akurasi dan kelengkapan informasi,Pengalaman
+Q23,Kecukupan detail informasi,Akurasi dan kelengkapan informasi,Pengalaman
+Q24,Kelengkapan informasi yang diberikan,Akurasi dan kelengkapan informasi,Pengalaman
+Q25,Kepercayaan terhadap informasi chatbot,Kepercayaan dan kredibilitas,Pengalaman
+Q26,Kejujuran chatbot dalam memberikan informasi,Kepercayaan dan kredibilitas,Pengalaman
+Q27,Kepercayaan terhadap pengecekan transaksi melalui chatbot,Kepercayaan dan kredibilitas,Pengalaman
+Q28,Reputasi dan kredibilitas layanan chatbot,Kepercayaan dan kredibilitas,Pengalaman
+Q29,Etika komunikasi chatbot,Kepercayaan dan kredibilitas,Pengalaman
+Q30,Efektivitas chatbot dibandingkan petugas layanan,Efektivitas dan efisiensi,Pengalaman
+Q31,Efisiensi chatbot dibandingkan petugas layanan,Efektivitas dan efisiensi,Pengalaman
+Q32,Perbandingan manfaat atau kinerja chatbot dengan layanan petugas,Efektivitas dan efisiensi,Pengalaman
+Q33,Saya puas dengan bantuan yang diberikan e-chatbot layanan perbankan.,Kepuasan terhadap bantuan,Kepuasan
+Q34,Saya puas dengan dukungan yang diberikan oleh layanan e-chatbot.,Kepuasan terhadap dukungan,Kepuasan
+Q35,E-chatbot secara efektif dapat mengatasi masalah perbankan saya.,Efektivitas penyelesaian masalah,Kepuasan
+Q36,E-chatbot memenuhi harapan saya dalam memberikan informasi dan solusi.,Pemenuhan harapan,Kepuasan
+Q37,Saya senang dengan agen layanan perbankan e-chatbot.,Kesenangan berinteraksi,Kepuasan
+Q38,Saya puas dengan keseluruhan pengalaman saya berinteraksi dengan e-chatbot untuk kebutuhan perbankan saya.,Kepuasan keseluruhan,Kepuasan

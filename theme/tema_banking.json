@@ -1,0 +1,44 @@
+{
+  "name": "Banking Experience",
+  "dataColors": [
+    "#1E6FD9",
+    "#00A99D",
+    "#F5A623",
+    "#5BA4E6",
+    "#1B5FAA",
+    "#6B7A8C",
+    "#D64545",
+    "#F29E4C"
+  ],
+  "background": "#FFFFFF",
+  "foreground": "#1B2733",
+  "tableAccent": "#0B2545",
+  "good": "#00A99D",
+  "neutral": "#F5A623",
+  "bad": "#D64545",
+  "maximum": "#1B5FAA",
+  "center": "#C9CED6",
+  "minimum": "#D64545",
+  "textClasses": {
+    "callout": {
+      "fontSize": 39,
+      "fontFace": "Segoe UI Semibold",
+      "color": "#0B2545"
+    },
+    "title": {
+      "fontSize": 18,
+      "fontFace": "Segoe UI Semibold",
+      "color": "#1B2733"
+    },
+    "header": {
+      "fontSize": 15,
+      "fontFace": "Segoe UI Semibold",
+      "color": "#1B2733"
+    },
+    "label": {
+      "fontSize": 14,
+      "fontFace": "Segoe UI",
+      "color": "#6B7A8C"
+    }
+  }
+}
