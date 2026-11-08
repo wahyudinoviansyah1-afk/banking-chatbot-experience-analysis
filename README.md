@@ -2,7 +2,7 @@
 
 Analisis terhadap 446 responden untuk memahami pengalaman dan tingkat kepuasan pengguna layanan chatbot perbankan. Proyek ini menggunakan Excel dan Power Query untuk proses data preparation, kemudian Power BI untuk data modeling, analisis deskriptif, dan visualisasi dashboard.
 
-![Dashboard](images/dashboard.png)
+![Dashboard Ringkasan Kepuasan](images/ringkasan_kepuasan.png)
 
 ## 1. Masalah Bisnis
 
